@@ -10,7 +10,7 @@
     "com.unity.textmeshpro": "3.0.4",
     "com.unity.timeline": "1.5.2",
     "com.unity.ugui": "1.0.0",
-    "com.unity.vfx-toolbox": "file:H:/scratch_houdini/Development/VFXToolbox",
+    "com.unity.vfx-toolbox": "https://github.com/Unity-Technologies/VFXToolbox.git",
     "com.unity.visualscripting": "1.5.2",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",

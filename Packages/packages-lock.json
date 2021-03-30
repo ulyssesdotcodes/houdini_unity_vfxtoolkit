@@ -133,10 +133,11 @@
       }
     },
     "com.unity.vfx-toolbox": {
-      "version": "file:H:/scratch_houdini/Development/VFXToolbox",
+      "version": "https://github.com/Unity-Technologies/VFXToolbox.git",
       "depth": 0,
-      "source": "local",
-      "dependencies": {}
+      "source": "git",
+      "dependencies": {},
+      "hash": "HEAD"
     },
     "com.unity.visualeffectgraph": {
       "version": "11.0.0",
